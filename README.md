@@ -11,7 +11,7 @@ E-Workshop API permits The Car Solution staff to access to the following resourc
 -   List down all the appointments.
 -   List down appointments by workshop.
 -   Schedule an appointment.
-    s- Recommend workshops based on availability.
+-   Recommend workshops based on availability.
 
 ## Installation
 
