@@ -35,8 +35,6 @@ class ScheduleController extends Controller
                 ], 500);
             }
 
-            http: //127.0.0.1:8000/api/v1/appointment/schedule
-
             //******************************* Validation **********************/
             $validator = $this->validator($aData);
             if ($validator->fails()) {
