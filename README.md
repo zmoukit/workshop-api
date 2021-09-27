@@ -8,10 +8,10 @@ Within the API, The Car Solutions staff could list created appointments, create 
 
 E-Workshop API permits The Car Solution staff to access to the following resources:
 
-1 - List down all the appointments.
-2 - List down appointments by workshop .
-3 - Schedule an appointment.
-4 - Recommend workshops based on availability.
+-   List down all the appointments.
+-   List down appointments by workshop.
+-   Schedule an appointment.
+    s- Recommend workshops based on availability.
 
 ## Installation
 
@@ -24,6 +24,7 @@ $ git clone https://github.com/zmoukit/workshop-api.git
 -   Run in your terminal
 
 ```
+$ cd PROJECT_ROOT_FOLDER
 $ composer install
 $ php artisan key:generate
 ```
